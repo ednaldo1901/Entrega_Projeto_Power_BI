@@ -1,9 +1,10 @@
 ﻿# Entrega_Projeto_Power_BI
+ 
  neste projeto utilizamos a semplo financial nativa da microsofit.  
  
- utilizando de graficos para apesentação de relatorios  
+ utilizando de gráficos para apesentação de relatorios  
  
- botões para interação entre graficos  
+ botões para interação entre gráficos  
  
- imimagens para direcionamento entre pagina  
+ imagens para direcionamento entre pagina  
  
